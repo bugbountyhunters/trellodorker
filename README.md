@@ -33,3 +33,7 @@ The following dorks for Trello boards mentioning `example.com` that also mention
 `python trellodorker.py -i example.com -o output.txt -a admin,password`
 
 The tool fetches all boards matching those conditions, then fetches every member of each board. It then fetches all boards that those members are on, and writes the name and URL of each board to your specified output file.
+
+### Credit
+
+Developed by PMOC.
